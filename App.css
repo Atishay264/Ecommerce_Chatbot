@@ -1,0 +1,45 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f6f8fa;
+  min-height: 100vh;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+  margin-right: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+pre {
+  margin-top: 20px;
+  text-align: left;
+  white-space: pre-wrap;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+}
